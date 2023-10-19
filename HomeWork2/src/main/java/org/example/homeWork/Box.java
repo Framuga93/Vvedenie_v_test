@@ -24,6 +24,10 @@ public class Box implements ElementAndBoxInterface{
         insideBox.add(elementOrBox);
     }
 
+    public ElementAndBoxInterface get(int index){
+        return insideBox.get(index);
+    }
+
 
     @Override
     public int getPrise() {
