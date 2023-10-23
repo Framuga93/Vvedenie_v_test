@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Vvedenie_v_test/HomeWork.iml" filepath="$PROJECT_DIR$/Vvedenie_v_test/HomeWork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeWork2/HomeWork2.iml" filepath="$PROJECT_DIR$/HomeWork2/HomeWork2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java_auto.iml" filepath="$PROJECT_DIR$/.idea/Java_auto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vvedenie-v-automatizatsiy-testirovania/auto.iml" filepath="$PROJECT_DIR$/Vvedenie-v-automatizatsiy-testirovania/auto.iml" />
+    </modules>
+  </component>
+</project>
